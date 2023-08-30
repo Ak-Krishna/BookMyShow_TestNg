@@ -22,7 +22,7 @@ public class YopMail_Login extends BaseClass {
 //        driver.close();
         Get_OTP otp=new Get_OTP(driver);
         String num=otp.getOtp();
-        System.out.println("num");
+        System.out.println(num);
         Assert.assertEquals(num,num,"Getting OTP From Yop Mail");
     }
 

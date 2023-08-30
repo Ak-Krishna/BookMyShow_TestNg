@@ -6,13 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1be20a0c-61d6-410c-96fd-1fc18113c088" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ExtentReportManager/ExtentLogger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ExtentReportManager/ExtentManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ExtentReportManager/ExtentReport.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ExtentReportManager/FrameworkConstants.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/PageObjectModal/Get_OTP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/PageObjectModal/Get_OTP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/book_my_show/YopMail_Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/book_my_show/YopMail_Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +54,7 @@
       <recent name="com.book_my_show" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.BookMyShow_Login (1)">
+  <component name="RunManager" selected="TestNG.F:/RestAssured_API/BookMyShow/testng.xml">
     <configuration name="BookMyShow_Login (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="BookMyShow" />
       <extension name="coverage">
@@ -142,9 +136,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.F:/RestAssured_API/BookMyShow/testng.xml" />
         <item itemvalue="TestNG.BookMyShow_Login (1)" />
         <item itemvalue="TestNG.YopMail_Login" />
-        <item itemvalue="TestNG.F:/RestAssured_API/BookMyShow/testng.xml" />
         <item itemvalue="TestNG.BookMyShow_Login.verifyLogin" />
         <item itemvalue="TestNG.BookMyShow_Login" />
       </list>
@@ -160,6 +154,17 @@
       <updated>1693396014303</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
