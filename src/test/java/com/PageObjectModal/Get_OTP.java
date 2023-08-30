@@ -12,6 +12,7 @@ public class Get_OTP {
     public static final By TXT_OTP=By.xpath("(//table)[7]//tr/td");
 
     public String getOtp(){
+        driver.switchTo().frame("ifmail");
         return driver.findElement(TXT_OTP).getText();
     }
 }
