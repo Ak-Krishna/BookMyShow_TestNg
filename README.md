@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ak-krishna&label=Profile%20views&color=0e75b6&style=flat" alt="ak-krishna" /> </p>
 
 - 🔭 I’m currently working on [BookMyShowLogin_Automation](https://github.com/Ak-Krishna/BookMyShow_TestNg)
+- 💬 You can directlly execute script from testng.xml file
 
 - 🌱 I’m currently learning **Software Testing**
 
@@ -16,6 +17,15 @@
 - 📫 How to reach me **kishanaher8@gmail.com**
 
 - ⚡ Fun fact **I think i am always ready to find misktakes in your product, professionally i'm a tester.**
+
+- **Project Test Scripts Folder Path**
+  <ul>
+  <li>it's important to add all depenedencies in pom.xml file</li>
+  <li>Open ` src/test/java/com ` </li>
+  <li>You will get all Test script in `/book_my_show package` </li>
+  <li>`/PageObjectMode` contains seperate class for seperate package</li>
+  
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
